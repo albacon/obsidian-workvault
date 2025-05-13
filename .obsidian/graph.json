@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "File: MSK Knowledge Bank",
+      "color": {
+        "a": 1,
+        "rgb": 8589568
+      }
+    },
+    {
+      "query": "line: MSK Knowledge Bank",
+      "color": {
+        "a": 1,
+        "rgb": 14307584
+      }
+    },
+    {
+      "query": "Line: Treatment Techniques",
+      "color": {
+        "a": 1,
+        "rgb": 6603878
+      }
+    },
+    {
+      "query": "Line: Assessment Techniques",
+      "color": {
+        "a": 1,
+        "rgb": 16116736
+      }
+    },
+    {
+      "query": "Line: Screening and Red Flags",
+      "color": {
+        "a": 1,
+        "rgb": 15597817
+      }
+    },
+    {
+      "query": "File: Locomotor",
+      "color": {
+        "a": 1,
+        "rgb": 14352484
+      }
+    },
+    {
+      "query": "Line: Homerton",
+      "color": {
+        "a": 1,
+        "rgb": 6226033
+      }
+    },
+    {
+      "query": "Line: Anatomy & Physiology",
+      "color": {
+        "a": 1,
+        "rgb": 2511871
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 2.08578947368421,
+  "lineSizeMultiplier": 4.09736842105263,
+  "collapse-forces": false,
+  "centerStrength": 0.3533935546875,
+  "repelStrength": 13.4822591145833,
+  "linkStrength": 1,
+  "linkDistance": 187,
+  "scale": 0.8726490417215983,
+  "close": true
+}

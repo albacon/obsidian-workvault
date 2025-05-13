@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "21859bf9e7e391df",
+    "type": "split",
+    "children": [
+      {
+        "id": "1446252118fabbb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f589b4638e87440",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lower Back Pain Differential Diagnoses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lower Back Pain Differential Diagnoses"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bab1b05590cf752b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8d6c9281618897e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5498cc6faf3b0cc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ab76bba1a9e52c42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "204b6139785c8ce4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e22aad55fa440590",
+    "type": "split",
+    "children": [
+      {
+        "id": "7216789ea008e386",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b2777c01bd00f24",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lower Back Pain Differential Diagnoses.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lower Back Pain Differential Diagnoses"
+            }
+          },
+          {
+            "id": "b1f4b13d10ef3d94",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lower Back Pain Differential Diagnoses.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lower Back Pain Differential Diagnoses"
+            }
+          },
+          {
+            "id": "3c08e12476315a99",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ae168d293d04e80b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lower Back Pain Differential Diagnoses.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lower Back Pain Differential Diagnoses"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "9f589b4638e87440",
+  "lastOpenFiles": [
+    "Cervical Spine Differential Diagnosis.md",
+    "Lower Back Pain Differential Diagnoses.md",
+    "cervical differential summary - Unknown.md",
+    "Screenshot 2025-05-10 at 21.45.30.png",
+    "Screenshot 2025-05-10 at 21.45.03.png",
+    "Screenshot 2025-05-10 at 21.44.36.png",
+    "Screenshot 2025-05-10 at 21.44.18.png",
+    "Cervical Radiculopathy & Myelopathy.md",
+    "Screenshot 2025-05-10 at 20.51.17.png",
+    "Screening Inflammatory Pathologies.md",
+    "Knee Anatomy.md",
+    "Inflammatory Screening.md",
+    "Assessment Techniques.md",
+    "Explain_Pain.pdf.md",
+    "LBP Differential Diagnosis Mindmap.md",
+    "2025-04-19.md",
+    "Drawing 2 1.pdf.md",
+    "Cauda Equina Syndrome.md",
+    "Locomotor.md",
+    "Shockwave Therapy Literature Review.md",
+    "Base of 5th Metatarsal Fracture.md",
+    "Infection Screening.md",
+    "Hip Differential Diagnoses.md",
+    "Non-Specific Low Back Pain.md",
+    "Screenshot 2025-05-10 at 18.31.10.png",
+    "Screenshot 2025-05-10 at 18.25.05.png",
+    "Cancer Screening.md",
+    "Screening and Red Flags.md",
+    "Cervical Artery Dysfunction.md",
+    "Screenshot 2025-05-10 at 17.11.10.png",
+    "Screenshot 2025-05-05 at 11.42.09.png",
+    "Screenshot 2025-05-05 at 15.14.14.png",
+    "Screening for Fractures.md",
+    "CES GIRFT Complete Flowchart 1.pdf",
+    "Ottawa-Ankle-Rules-47 1.ppm",
+    "Ottawa-Ankle-Rules-47.ppm",
+    "Cervic.md",
+    "Cervical Spine.md",
+    "Plantar Fasciitis.md",
+    "SpA_poster_v28.pdf",
+    "CES GIRFT Complete Flowchart.pdf",
+    "Drawing 2 1.pdf",
+    "Drawing 2.pdf",
+    "Suspected cauda equina syndrome 2.pdf",
+    "Suspected cauda equina syndrome 1.pdf",
+    "Suspected cauda equina syndrome.pdf",
+    "Untitled 3.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas"
+  ]
+}
